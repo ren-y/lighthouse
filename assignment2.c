@@ -1,3 +1,5 @@
+//A program to play - Welcome to two doors
+
 #include <stdio.h>
 
 int main() {
