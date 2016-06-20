@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>assignment3.6.xcscheme</key>
+		<key>Array.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>07F66FED1D17CD53008F5893</key>
+		<key>07C6CD361D18700000D37ED8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
