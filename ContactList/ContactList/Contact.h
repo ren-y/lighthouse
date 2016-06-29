@@ -9,5 +9,10 @@
 #import <Foundation/Foundation.h>
 
 @interface Contact : NSObject
+@property NSString *fullName;
+@property NSString *email;
+
+
+//-(void)setFullname:(NSString *)fullname;
 
 @end

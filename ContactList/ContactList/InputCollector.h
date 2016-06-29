@@ -7,7 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "Contact.h"
 @interface InputCollector : NSObject
+-(NSString *)inputForPrompt:(NSString *)promptString;
 
 @end
